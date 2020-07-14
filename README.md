@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+This project is a part of the MEAN stack CRUD practice that I have done. The other part is in another repository called mean_test_backend.
+To run it locally, download both parts. 
+- Run      /mongod
+- Run developer server in angular folder      /ng serve   http://localhost:4200/
+. Run in the server folder      /npm run dev
+
+
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
