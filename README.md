@@ -8,6 +8,9 @@ To run it locally, download both parts.
 - Run developer server in angular folder      /ng serve   http://localhost:4200/
 - Run in the server folder      /npm run dev
 
+## Material Design
+Used the framework materializze for including material design components
+
 ![](pantallazo1.jpg)
 
 ![](pantallazo2.jpg)
